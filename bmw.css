@@ -1,0 +1,14 @@
+*{
+    text-decoration: none;
+}
+.navbar{
+    align-items: center;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: green;
+    font-size: 30px;
+}

@@ -14,8 +14,6 @@ body{
     padding-right: 25%;
     border-style: solid;
     border-color:rgb(236, 223, 204) ;
-    
-    
 }
 
 .navdiv{
@@ -59,7 +57,7 @@ button a{
     border-radius: 10px;
 }
 
-.mainclick1,.mainclick2{
+.mainclick1{
     
     height:200px;
     width:300px;
@@ -73,14 +71,26 @@ button a{
     
 }
 
+.mainclick2{
+    height:200px;
+    width:300px;
+    border-style:solid;
+    border-color: rgb(236, 223, 204);
+    align-items: center;
+    width: fit-content;
+    height:fit-content;
+    margin: 20px;
+    border-radius: 1%;
+}
+
 .mainclick{
-    display:flex;
+    
     margin-top: 10px;
     margin-bottom:10px;
     justify-content: left;
     height:1000px;
-    border-style:solid;
-    border-color: white;
+    display:flex
+    
 }
 
 .socials{
@@ -99,3 +109,217 @@ button a{
     
     
 }
+
+.head1{
+    text-align: center;
+    font-size: 50px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    
+
+}
+
+.boxa{
+    background-color: yellow;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+    padding-top: 20px;
+    border-radius: 10px;
+}
+
+.boxb{
+        background-color: yellow;
+        margin-top: 20px;
+        margin-left:10px;
+        width: 735px;
+        height:950px;
+        text-align: center;
+        color: aliceblue;
+        font-size: 50px;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+}
+
+.boxc{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxd{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxe{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxf{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxg{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxh{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxi{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+.boxj{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+
+.boxk{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+
+.boxl{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+
+.boxm{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+
+.boxn{
+    
+    border-color: aliceblue;
+    border-style: solid;
+    margin-top: 20px;
+    margin-left:10px;
+    width: 735px;
+    height:950px;
+    text-align: center;
+    color: aliceblue;
+    font-size: 50px;
+padding-top: 20px;
+
+}
+
+
+
+

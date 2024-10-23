@@ -1,0 +1,103 @@
+*{
+    text-decoration: none;
+}
+
+/*  navigation bar */
+.navbar{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+
+.navdiv{
+    justify-content: space-between;
+    display: flex;
+    align-items:center;
+    margin-left: 150px;
+}
+
+/* navigation bar logo  */
+
+.logo a{
+    font-size: 40px;
+    color: black;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+    padding-right: 30px;
+}
+
+li a{
+    color: black;
+    font-size: 20px;
+}
+
+button{
+    background-color: rgb(0, 0, 255);
+    border-radius: 5px;
+}
+button a{
+    color: antiquewhite;
+}
+
+.boxa{
+    
+    width: 300px;
+    height: 690px;
+    border-style:solid;
+    border-radius: 10px;
+    align-items: center;
+
+}
+
+.boxa a{
+    color:white;
+    
+}
+
+.boxb{
+    width:1170px;
+    height:900px;
+    margin-left: 15px;
+    padding-left: 30px;
+    border-style: solid;
+}
+
+.boxtotal{
+    display: flex;
+}
+
+.boxa1,.boxa2,.boxa3,.boxa4{
+    margin-bottom: 80px;
+    background-color: rgb(60, 59, 59);
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-top-left-radius: 10px;
+    border-end-start-radius: 10px;}
+
+.contenthead{
+    font-size: 45px;
+text-align: center;
+    margin-bottom: 20px;
+}
+
+.contenta{
+    font-size: 30px;
+text-align: center;
+    margin-bottom: 20px;
+}
+.contentb{
+    font-size: 25px;
+
+    margin-bottom: 20px;
+}
+.contentc{
+    font-size: 20px;
+
+    margin-bottom: 20px;
+}
+
+
